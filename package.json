@@ -1,0 +1,22 @@
+{
+  "name": "telegram-proxy",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Mohammad MohammadAlian <mralian.dev@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "nodemon server.js"
+  },
+  "engines": {
+    "node": "v14.x"
+  },
+  "dependencies": {
+    "axios": "^0.21.1",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
+}
