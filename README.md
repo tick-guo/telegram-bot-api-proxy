@@ -5,3 +5,6 @@ just change your base URL from api.telegram.org to tgproxy-m.herokuapp.com and s
 ```bash
 curl https://tgproxy-m.herokuapp.com/bot{TOKEN}/getMe
 ```
+
+# 这个不错, 可以用!
+
